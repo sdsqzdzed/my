@@ -5,19 +5,19 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "voidsmp-YtGN.aternos.me"
-
-    "port": 12701,
+"server": {
+        "ip": "voidsmp-YtGN.aternos.me",
+        "port": 12701
+    },
     "version": "",
-    "try-creative": false
-  },
-  "position": {
-    "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
-  },
+    "try-creative": false,
+ "position": {
+        "enabled": true,
+        "x": 0,
+        "y": 100,
+        "z": 0
+    },
+    "auto-auth": {
   "utils": {
     "auto-auth": {
       "enabled": true,
